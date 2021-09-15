@@ -1,6 +1,6 @@
 # JB-Mac-command
 
-### *整体code格式（自动加空格等）option+command+L
+### 整体code格式（自动加空格等）option+command+L
 
 ### 跳到下一个error：F2
 
@@ -20,5 +20,8 @@
 
 ### 当前line整体上移/下移: shift+option+⬆️ / shift+option+⬇️
 
-### repalce替换 ctrl + R, 全局搜替换 ctrl + shift + R
+### replace: 替换 ctrl + R, 全局搜替换 ctrl + shift + R
 
+### 查看错误信息： command+F1 
+
+### 纠错建议：option+Enter
