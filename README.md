@@ -12,3 +12,8 @@
 
 ### local搜索：双击shift
 
+### 复制当前line：command+D
+
+### 当前line整体上移/下移: shift+option+⬆️ / shift+option+⬇️
+
+### repalce替换 ctrl + shift + R
