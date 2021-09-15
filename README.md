@@ -16,4 +16,6 @@
 
 ### 当前line整体上移/下移: shift+option+⬆️ / shift+option+⬇️
 
-### repalce替换 ctrl + shift + R
+### repalce替换 ctrl + R, 全局搜替换 ctrl + shift + R
+
+### 整体code格式（自动加空格等）
