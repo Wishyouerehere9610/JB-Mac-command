@@ -1,5 +1,9 @@
 # JB-Mac-command
 
+### *整体code格式（自动加空格等）option+command+L
+
+### 跳到下一个error：F2
+
 ### 返回/前进上次修改文件："option + command + <", "option + command + >"
 
 ### 提示修改方法：command + enter
@@ -18,4 +22,3 @@
 
 ### repalce替换 ctrl + R, 全局搜替换 ctrl + shift + R
 
-### *整体code格式（自动加空格等）option+command+L
