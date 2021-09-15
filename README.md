@@ -18,4 +18,4 @@
 
 ### repalce替换 ctrl + R, 全局搜替换 ctrl + shift + R
 
-### 整体code格式（自动加空格等）option+command+L
+### *整体code格式（自动加空格等）option+command+L
