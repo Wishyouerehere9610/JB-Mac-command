@@ -1,8 +1,10 @@
 # JB-Mac-command
 
-### 整体code格式（自动加空格等）option+command+L
+### 修改整体code格式（自动加空格等）option+command+L
 
 ### 跳到下一个error：F2
+
+### 进入一个method的declaration： command+左键或者command+B
 
 ### 返回/前进上次修改文件："option + command + <", "option + command + >"
 
@@ -25,3 +27,11 @@
 ### 查看错误信息： command+F1 
 
 ### 纠错建议：option+Enter
+
+### 最近打开过的文件 file: command + E，然后直接输入也可检索
+
+### 最近打开过的文件的具体位置：command + shift + E
+
+### 运行Debug 模式：Ctrl + D
+
+### 打开gitlog: command+9
