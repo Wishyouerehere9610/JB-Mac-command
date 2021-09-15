@@ -5,3 +5,10 @@
 ### 提示修改方法：command + enter
 
 ### 向前缩进：选中后shift + tab  选中后向后位移：tab
+
+### 慢慢选中一行中的所有语句：option+⬆️ (连点）
+
+### 全局搜索：shift+command+F
+
+### local搜索：双击shift
+
