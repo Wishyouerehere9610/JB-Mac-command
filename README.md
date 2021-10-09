@@ -1,5 +1,7 @@
 # JB-Mac-command
 
+### 终止debug：command+F2, 开启debug：control+D
+
 ### 修改整体code格式（自动加空格等）option+command+L
 
 ### 跳到下一个error：F2
